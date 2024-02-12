@@ -1,5 +1,5 @@
 ### Hi there 👋
-Mason Phung / 23 / Vietnamese   
+Mason Phung / Vietnamese   
 
 
 A Data enthusiast with an engineering and marketing background
