@@ -1,4 +1,4 @@
-### Hi there 👋
+### G'day 👋
 Mason Phung / Vietnamese   
 
 
