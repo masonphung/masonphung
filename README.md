@@ -1,6 +1,4 @@
 ### G'day 👋
-Mason Phung / Vietnamese   
-
 
 A Data enthusiast with an engineering and marketing background
 
