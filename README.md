@@ -1,6 +1,6 @@
 ### G'day 👋
 
-A Data enthusiast with an engineering and marketing background
+Data enthusiast with an engineering and marketing background
 
 ## Education
 - <a href="https://www.mq.edu.au" target="_blank">Macquarie University</a> | Msc. Data Science   
