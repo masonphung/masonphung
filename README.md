@@ -8,3 +8,5 @@ Data enthusiast with an engineering and marketing background
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,r,mysql,vscode,mongodb,github&theme=light)](https://skillicons.dev)
+
+## Check out some of my projects &#8595;
