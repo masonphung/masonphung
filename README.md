@@ -1,6 +1,6 @@
 ### G'day 👋
 
-Enthusiastic Data Analyst with an engineering and marketing background. I believe in the power of data to drive businesses forward and create meaningful impacts across all areas.
+Enthusiastic Data Analyst with an engineering and marketing background. I believe in the power of data to drive businesses forward and create meaningful impacts for companies.
 
 Looking to gain knowledge on Machine Learning and AI applications.
 
