@@ -1,6 +1,8 @@
 ### G'day 👋
 
-Data enthusiast with an engineering and marketing background
+Enthusiastic Data Analyst with an engineering and marketing background.
+
+Looking to gain knowledge on Machine Learning and AI applications.
 
 ## Education
 - <a href="https://www.mq.edu.au" target="_blank">Macquarie University</a> | Msc. Data Science   
