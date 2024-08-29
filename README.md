@@ -4,7 +4,7 @@ Enthusiastic Data Analyst with an engineering and marketing background. I believ
 
 Looking to gain knowledge on Machine Learning and AI applications.
 
-Current Master student at Macquarie University
+Current Master student at Macquarie University.
 
 ## Education
 - <a href="https://www.mq.edu.au" target="_blank">Macquarie University</a> | Msc. Data Science
