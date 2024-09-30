@@ -13,4 +13,9 @@ Current Master student at Macquarie University.
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,r,mysql,vscode,mongodb,github&theme=light)](https://skillicons.dev)
 
-## Check out some of my projects &#8595;
+## My Github
+My github contains projects that I've done myself personally to practice & gain experience working with Data in different tasks including Data Analytics and Machine Learning.
+The projects are conducted either in Python or R, most of them are compiled in Jupyter Notebooks format.
+Feel free to let me know if there's anything that I can further improve !
+
+**Check out some of my projects &#8595;**
