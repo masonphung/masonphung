@@ -15,8 +15,8 @@ Current Master student at Macquarie University.
 
 ## My Github
 - My github contains projects that I've done myself personally to practice & gain experience working with Data in different tasks including Data Analytics and Machine Learning.
-- The projects are conducted either in Python or R, most of them are compiled in Jupyter Notebooks format.
-- Feel free to let me know if there's anything that I can further improve !
+- The projects are conducted either in Python or R, some of them are deployed on cloud.
+- Feel free to let me know if there's anything that I can further improve and learn from you !
 
 ## Connect with me
 [1]: http://www.github.com/masonphung
