@@ -4,7 +4,7 @@ Enthusiastic Data Analyst/Scientist with an engineering and marketing background
 
 Recently, I'm working to gain knowledge on Neural Network applications and explore the endless opportunities that we and businesses can benefit from them.
 
-Current Master student at Macquarie University.
+Current Master student at Macquarie University (last year).
 
 ## Education
 - <a href="https://www.mq.edu.au" target="_blank">Macquarie University</a> | Msc. Data Science
