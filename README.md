@@ -14,9 +14,12 @@ Current Master student at Macquarie University (last year).
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,r,mysql,vscode,mongodb,gcp,docker,github,vercel&theme=light)](https://skillicons.dev)
 
 ## My Github
+
 - My github contains projects that I've done myself personally to practice & gain experience working with Data in different tasks including Data Analytics and Machine Learning.
 - The projects are conducted either in Python or R, some of them are deployed on cloud.
 - Feel free to let me know if there's anything that I can further improve and learn from you !
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masonphung&size_weight=0.2&count_weight=1&layout=compact)
 
 ## Connect with me
 [1]: http://www.github.com/masonphung
