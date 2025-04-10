@@ -1,10 +1,10 @@
 ### G'day 👋
 
-Enthusiastic Data Analyst/Scientist with an engineering and marketing background. I believe in the power of data to drive businesses forward and create meaningful impacts for companies.
+Enthusiastic Data Analyst/Scientist with an engineering and marketing background. I believe in the power of data to drive businesses forward and create meaningful results for companies.
 
 Recently, I'm working to gain knowledge on Neural Network applications and explore the endless opportunities that we and businesses can benefit from them.
 
-Current Master student at Macquarie University (last year).
+Current last year Master student at Macquarie University.
 
 ## Education
 - <a href="https://www.mq.edu.au" target="_blank">Macquarie University</a> | Msc. Data Science
