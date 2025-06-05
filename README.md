@@ -4,6 +4,8 @@ Enthusiastic Data Analyst/Scientist with an engineering and marketing background
 
 Recently, I'm working to gain knowledge on Neural Network applications and explore the endless opportunities that we and businesses can benefit from them.
 
+...And take part in any data competition (that I know) to improve myself and get valuable experience there :D
+
 Current last year Master student at Macquarie University.
 
 ## Education
@@ -15,13 +17,21 @@ Current last year Master student at Macquarie University.
 
 ## My Github
 
-- My github contains projects that I've done myself personally to practice & gain experience working with Data in different tasks including Data Analytics and Machine Learning.
+- Contains projects that I've done myself personally to practice working with Data in different tasks including Data Science and Machine Learning/Deep Learning.
 - The projects are conducted either in Python or R, some of them are deployed on cloud.
-- Feel free to let me know if there's anything that I can further improve and learn from you !
+- Welcome any suggestions for improvement!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masonphung&size_weight=0.2&count_weight=1&layout=compact)
 
-## Connect with me
+## Data competitive journey
+- Macquarie University <a href="https://datafestatmq.netlify.app/">ASA DataFest 2025</a>, **Helper/Mentor**.
+- EY 2025 <a href="https://challenge.ey.com/2025">Open AI & Data Challenge</a>, Competitor/Team Leader, **67th Global, 7th Australia** (10k participants).
+- Macquarie University <a href="https://datavizatmq.netlify.app/dataviz2024.html">DataViz 2024</a> Challenge, Competitor/Team Leader, **Winner**.
+
+
+## Connect with me: 
+Still got a lot to learn so feel free to share any knowledge with me.
+
 [1]: http://www.github.com/masonphung
 [2]: https://www.linkedin.com/in/masonphung
 [3]: https://www.masonphung.com
