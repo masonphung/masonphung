@@ -25,8 +25,8 @@ Current Data Science Intern at NetworkEdge and last year Master student at Macqu
 
 ## Data competitive journey
 - Macquarie University <a href="https://datafestatmq.netlify.app/">ASA DataFest 2025</a>, **Helper/Mentor**.
-- EY 2025 <a href="https://challenge.ey.com/2025">Open AI & Data Challenge</a>, Competitor/Team Leader, **67th Global, 7th Australia** (10k participants).
-- Macquarie University <a href="https://datavizatmq.netlify.app/dataviz2024.html">DataViz 2024</a> Challenge, Competitor/Team Leader, **Winner**.
+- EY 2025 <a href="https://challenge.ey.com/2025">Open AI & Data Challenge</a>, Data Scientist/Team Leader, **67th Global, 7th Australia** (10k participants).
+- Macquarie University <a href="https://datavizatmq.netlify.app/dataviz2024.html">DataViz 2024</a> Challenge, Data Analyst/Team Leader, **Winner**.
 
 
 ## Connect with me: 
