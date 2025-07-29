@@ -6,7 +6,7 @@ Recently, I'm working to gain knowledge on Neural Network applications and explo
 
 ...And take part in any data competition (that I know) to improve myself and get valuable experience there :D
 
-Current last year Master student at Macquarie University.
+Current Data Science Intern at NetworkEdge and last year Master student at Macquarie University.
 
 ## Education
 - <a href="https://www.mq.edu.au" target="_blank">Macquarie University</a> | Msc. Data Science
