@@ -23,10 +23,11 @@ Working as a Data Science Intern at @NetworkEdge
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masonphung&size_weight=0.2&count_weight=1&layout=compact)
 
-## Data competitive journey
+## Competitive data journey
+- InterUni Datathon 2025, Data Scientist/Team Leader (time-series, ARIMAX).
 - Macquarie University <a href="https://datafestatmq.netlify.app/">ASA DataFest 2025</a>, **Helper/Mentor**.
-- EY 2025 <a href="https://challenge.ey.com/2025">Open AI & Data Challenge</a>, Data Scientist/Team Leader, **67th Global, 7th Australia** (10k participants).
-- Macquarie University <a href="https://datavizatmq.netlify.app/dataviz2024.html">DataViz 2024</a> Challenge, Data Analyst/Team Leader, **Winner**.
+- EY 2025 <a href="https://challenge.ey.com/2025">Open AI & Data Challenge</a>, Data Scientist/Team Leader, **67th/10k Global, 7th Australia** (XGBoost, geospatial, big data, API).
+- Macquarie University <a href="https://datavizatmq.netlify.app/dataviz2024.html">DataViz 2024</a> Challenge, Data Analyst/Team Leader, **Winner** (Python/Dash/GCP).
 
 
 ## Connect with me: 
