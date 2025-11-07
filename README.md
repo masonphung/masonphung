@@ -1,6 +1,6 @@
 ### G'day 👋
 
-Enthusiastic Data Analyst/Scientist with an engineering and marketing background. I believe in the power of data to drive businesses forward and create meaningful results for companies.
+Enthusiastic Data Scientist with an engineering and marketing background. I believe in the power of data to drive businesses forward and create meaningful results for companies.
 
 - A Data Scientist who strong in both SQL/NoSQL analytics & visualization & modelling with a solid base in Statistics and Database Management.
 - Strong in big data analytics.
